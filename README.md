@@ -1,30 +1,75 @@
-<h1 align="left">Olá! Eu sou o Elton de Assis</h1>
+# Elton de Assis
 
-###
+**`Cientista de Dados`**
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/elton-de-assis-guedes-neto-17170a261/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="53" height="34" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="53" height="34" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="53" height="34" alt="youtube logo"  />
+👋 Olá, me chamo Elton de Assis, tenho 22 anos e sou natural de Formosa, Bahia. Atualmente curso Ciência de Dados e Inteligência Artificial na UFPB e sou Técnico em Informática formado pelo IFBA – Campus Barreiras. Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial de redes neurais e Small Language Models (SLMs), aplicando-os em diferentes contextos para solucionar problemas do dia a dia.
+
+---
+
+<div> 
+  <a href = "mailto:eltonassisguedesoten@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elton-de-assis-guedes-neto-17170a261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
 
+### 🤖 Linguagens e Tecnologias
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PyTorch" 
+    title="PyTorch"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Hugging Face" 
+    title="Hugging Face"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
+<br/>
+<br/>
+
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/notledev/notledev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/notledv/notledv/output/snake.svg" alt="Snake animation" />
 
 ###
 
