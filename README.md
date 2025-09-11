@@ -2,7 +2,7 @@
 
 **`Cientista de Dados`**
 
-👋 Olá, me chamo Elton de Assis, tenho 22 anos e sou natural de Formosa, Bahia. Sou Técnico em Informática pelo IFBA – Campus Barreiras -, e curso Ciência de Dados e Inteligência Artificial na UFPB. Apaixonado por tecnologia e tenho dedicado em explorar o potencial de redes neurais e Small Language Models (SLMs), aplicando-os em diferentes contextos para solucionar problemas do dia a dia.
+👋 Olá! Meu nome é Elton de Assis, tenho 22 anos e sou natural de Formosa, Bahia. Sou **Técnico em Informática** pelo **IFBA** – Campus Barreiras – e atualmente curso **Ciência de Dados e Inteligência Artificial** na **UFPB**. Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das redes neurais e dos Small Language Models (SLMs), buscando aplicá-los em diferentes contextos para desenvolver soluções inovadoras e práticas para o dia a dia.
 
 ---
 
