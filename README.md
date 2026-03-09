@@ -5,11 +5,10 @@
 👋 Olá! Meu nome é Elton de Assis, tenho 22 anos e sou natural de Formosa, Bahia. Sou **Técnico em Informática** pelo **IFBA** – Campus Barreiras – e atualmente curso **Ciência de Dados e Inteligência Artificial** na **UFPB**. Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das redes neurais e dos Small Language Models (SLMs), buscando aplicá-los em diferentes contextos para desenvolver soluções inovadoras e práticas para o dia a dia.
 
 ---
-https://drive.google.com/file/d/19fGnuotDpl0gZ0AVeN7Dqc6njPVOBuxQ/view?usp=sharing
 <div> 
   <a href = "mailto:eltonassisguedesoten@outlook.com.br"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elton-de-assis-guedes-neto-17170a261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="https://drive.google.com/file/d/19fGnuotDpl0gZ0AVeN7Dqc6njPVOBuxQ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Currículo-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" target="_blank"></a> 
+  <a href="https://drive.google.com/file/d/19fGnuotDpl0gZ0AVeN7Dqc6njPVOBuxQ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" target="_blank"></a> 
   
 </div>
 
