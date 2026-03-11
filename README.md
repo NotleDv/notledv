@@ -45,10 +45,7 @@ Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das red
         <img title="NodeJS" alt="Node" height="40" src="https://skillicons.dev/icons?i=nodejs">
       </td>
       <td>
-        <img title="HTML5" alt="HTML" height="40" src="https://skillicons.dev/icons?i=html">
-      </td>
-      <td>
-        <img title="CSS3" alt="CSS" height="40" src="https://skillicons.dev/icons?i=css">
+        <img title="Express" alt="Express" height="40" src="https://skillicons.dev/icons?i=express">
       </td>
     </tr>
     <tr>
