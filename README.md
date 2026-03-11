@@ -39,6 +39,9 @@ Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das red
         <img title="React" alt="React" height="40" src="https://skillicons.dev/icons?i=react">
       </td>
       <td>
+        <img title="Tailwind CSS" alt="Tailwind" height="40" src="https://skillicons.dev/icons?i=tailwind">
+      </td>
+      <td>
         <img title="NodeJS" alt="Node" height="40" src="https://skillicons.dev/icons?i=nodejs">
       </td>
       <td>
@@ -57,6 +60,9 @@ Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das red
       </td>
       <td>
         <img title="MongoDB" alt="Mongo" height="40" src="https://skillicons.dev/icons?i=mongodb">
+      </td>
+      <td>
+        <img title="Prisma" alt="Prisma" height="40" src="https://skillicons.dev/icons?i=prisma">
       </td>
       <td>
         <img title="Docker" alt="Docker" height="40" src="https://skillicons.dev/icons?i=docker">
