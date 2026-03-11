@@ -1,78 +1,88 @@
 # Elton de Assis
-
 **`Cientista de Dados`**
 
-👋 Olá! Meu nome é Elton de Assis, tenho 22 anos e sou natural de Formosa, Bahia. Sou **Técnico em Informática** pelo **IFBA** – Campus Barreiras – e atualmente curso **Ciência de Dados e Inteligência Artificial** na **UFPB**. Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das redes neurais e dos Small Language Models (SLMs), buscando aplicá-los em diferentes contextos para desenvolver soluções inovadoras e práticas para o dia a dia.
+👋 Olá! Meu nome é Elton de Assis, tenho 22 anos e sou natural de Formosa, Bahia. Sou **Técnico em Informática** pelo **IFBA** – Campus Barreiras – e atualmente curso **Ciência de Dados e Inteligência Artificial** na **UFPB**. 
+
+Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das redes neurais e dos Small Language Models (SLMs), buscando aplicá-los em diferentes contextos para desenvolver soluções inovadoras e práticas para o dia a dia.
 
 ---
+
+## ⚙️ Tecnologias e Ferramentas
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <strong>Data Science & IA</strong>
+      </td>
+      <td>
+        <img title="Python" alt="Python" height="40" src="https://skillicons.dev/icons?i=py">
+      </td>
+      <td>
+        <img title="PyTorch" alt="PyTorch" height="40" src="https://skillicons.dev/icons?i=pytorch">
+      </td>
+      <td>
+        <img title="Hugging Face" alt="Hugging Face" height="40" src="https://skillicons.dev/icons?i=huggingface">
+      </td>
+      <td>
+        <img title="Pandas" alt="Pandas" height="40" src="https://skillicons.dev/icons?i=pandas">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Web Development</strong>
+      </td>
+      <td>
+        <img title="JavaScript" alt="JS" height="40" src="https://skillicons.dev/icons?i=js">
+      </td>
+      <td>
+        <img title="React" alt="React" height="40" src="https://skillicons.dev/icons?i=react">
+      </td>
+      <td>
+        <img title="NodeJS" alt="Node" height="40" src="https://skillicons.dev/icons?i=nodejs">
+      </td>
+      <td>
+        <img title="HTML5" alt="HTML" height="40" src="https://skillicons.dev/icons?i=html">
+      </td>
+      <td>
+        <img title="CSS3" alt="CSS" height="40" src="https://skillicons.dev/icons?i=css">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>DB & DevOps</strong>
+      </td>
+      <td>
+        <img title="PostgreSQL" alt="Postgres" height="40" src="https://skillicons.dev/icons?i=postgres">
+      </td>
+      <td>
+        <img title="MongoDB" alt="Mongo" height="40" src="https://skillicons.dev/icons?i=mongodb">
+      </td>
+      <td>
+        <img title="Docker" alt="Docker" height="40" src="https://skillicons.dev/icons?i=docker">
+      </td>
+      <td>
+        <img title="Git" alt="Git" height="40" src="https://skillicons.dev/icons?i=git">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 📎 Contatos e Mais informações
+
 <div> 
-  <a href = "mailto:eltonassisguedesoten@outlook.com.br"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elton-de-assis-guedes-neto-17170a261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="https://drive.google.com/file/d/19fGnuotDpl0gZ0AVeN7Dqc6njPVOBuxQ/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/-Curr%C3%ADculo-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" target="_blank"></a> 
-  
+  <a href="mailto:eltonassisguedesoten@outlook.com.br">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/elton-de-assis-guedes-neto-17170a261/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://drive.google.com/file/d/19fGnuotDpl0gZ0AVeN7Dqc6njPVOBuxQ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/-Curr%C3%ADculo-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
+  </a> 
 </div>
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PyTorch" 
-    title="PyTorch"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Hugging Face" 
-    title="Hugging Face"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-
-<br/>
-<br/>
-
-###
-
+### Snake de Atividades 🐍
 <img src="https://raw.githubusercontent.com/notledv/notledv/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left"></p>
-
-###
