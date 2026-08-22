@@ -82,7 +82,7 @@ Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das red
   <a href="https://www.linkedin.com/in/elton-de-assis-guedes-neto-17170a261/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://drive.google.com/file/d/19fGnuotDpl0gZ0AVeN7Dqc6njPVOBuxQ/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1ytNzgcUzd1qII0-zHQ8l_1hwz5exCD0t/view" target="_blank">
     <img src="https://img.shields.io/badge/-Curr%C3%ADculo-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
   </a> 
 </div>
