@@ -1,9 +1,7 @@
 # Elton de Assis
-**`Cientista de Dados`**
+**`Desenvolvedor de IA`** · LLMs, agentes e GraphRAG · Ciência de Dados e IA na UFPB
 
-👋 Olá! Meu nome é Elton de Assis, tenho 22 anos e sou natural de Formosa, Bahia. Sou **Técnico em Informática** pelo **IFBA** – Campus Barreiras – e atualmente curso **Ciência de Dados e Inteligência Artificial** na **UFPB**. 
-
-Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das redes neurais e dos Small Language Models (SLMs), buscando aplicá-los em diferentes contextos para desenvolver soluções inovadoras e práticas para o dia a dia.
+👋 Construo sistemas com LLMs que saem do notebook e respondem perguntas reais: agentes com LangGraph, RAG híbrido e GraphRAG com respostas auditáveis. Curso **Ciência de Dados e Inteligência Artificial** na **UFPB**, sou **Técnico em Informática** pelo **IFBA** e membro do laboratório LASER e Tril da UFPB.
 
 ---
 
@@ -12,60 +10,28 @@ Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das red
 <table>
   <tbody>
     <tr>
+      <td><strong>IA & Dados</strong></td>
       <td>
-        <strong>Data Science & IA</strong>
-      </td>
-      <td>
-        <img title="Python" alt="Python" height="40" src="https://skillicons.dev/icons?i=py">
-      </td>
-      <td>
-        <img title="PyTorch" alt="PyTorch" height="40" src="https://skillicons.dev/icons?i=pytorch">
-      </td>
-      <td>
-        <img title="Hugging Face" alt="Hugging Face" height="40" src="https://skillicons.dev/icons?i=huggingface">
-      </td>
-      <td>
-        <img title="Pandas" alt="Pandas" height="40" src="https://skillicons.dev/icons?i=pandas">
+        <img title="Python, PyTorch, FastAPI" alt="Python, PyTorch, FastAPI" height="40" src="https://skillicons.dev/icons?i=py,pytorch,fastapi"><br>
+        <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+        <img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+        <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+        <img alt="pandas" src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+        <img alt="Langfuse" src="https://img.shields.io/badge/Langfuse-0A0A0A?style=for-the-badge">
       </td>
     </tr>
     <tr>
+      <td><strong>Bancos & DevOps</strong></td>
       <td>
-        <strong>Web Development</strong>
-      </td>
-      <td>
-        <img title="JavaScript" alt="JS" height="40" src="https://skillicons.dev/icons?i=js">
-      </td>
-      <td>
-        <img title="React" alt="React" height="40" src="https://skillicons.dev/icons?i=react">
-      </td>
-      <td>
-        <img title="Tailwind CSS" alt="Tailwind" height="40" src="https://skillicons.dev/icons?i=tailwind">
-      </td>
-      <td>
-        <img title="NodeJS" alt="Node" height="40" src="https://skillicons.dev/icons?i=nodejs">
-      </td>
-      <td>
-        <img title="Express" alt="Express" height="40" src="https://skillicons.dev/icons?i=express">
+        <img title="PostgreSQL, Redis, MongoDB, Prisma, Docker, Git" alt="PostgreSQL, Redis, MongoDB, Prisma, Docker, Git" height="40" src="https://skillicons.dev/icons?i=postgres,redis,mongodb,prisma,docker,git"><br>
+        <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white">
+        <img alt="pgvector" src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white">
       </td>
     </tr>
     <tr>
+      <td><strong>Web</strong></td>
       <td>
-        <strong>DB & DevOps</strong>
-      </td>
-      <td>
-        <img title="PostgreSQL" alt="Postgres" height="40" src="https://skillicons.dev/icons?i=postgres">
-      </td>
-      <td>
-        <img title="MongoDB" alt="Mongo" height="40" src="https://skillicons.dev/icons?i=mongodb">
-      </td>
-      <td>
-        <img title="Prisma" alt="Prisma" height="40" src="https://skillicons.dev/icons?i=prisma">
-      </td>
-      <td>
-        <img title="Docker" alt="Docker" height="40" src="https://skillicons.dev/icons?i=docker">
-      </td>
-      <td>
-        <img title="Git" alt="Git" height="40" src="https://skillicons.dev/icons?i=git">
+        <img title="JavaScript, React, Tailwind, Node.js, Express" alt="JavaScript, React, Tailwind, Node.js, Express" height="40" src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express">
       </td>
     </tr>
   </tbody>
@@ -73,18 +39,18 @@ Sou apaixonado por tecnologia e tenho me dedicado a explorar o potencial das red
 
 ---
 
-## 📎 Contatos e Mais informações
+## 📎 Contatos
 
-<div> 
+<div>
   <a href="mailto:eltonassisguedesoten@outlook.com.br">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/elton-de-assis-guedes-neto-17170a261/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://drive.google.com/file/d/1O-XPLdrU25hMdfKUjnouMgzgHKncH6yO/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1d_2369vFdTyEGCPhgj7ExHmnPO0SwvS2/preview" target="_blank">
     <img src="https://img.shields.io/badge/-Curr%C3%ADculo-red?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
-  </a> 
+  </a>
 </div>
 
 ### Snake de Atividades 🐍
